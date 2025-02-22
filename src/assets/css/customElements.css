@@ -22,18 +22,23 @@ button:hover {
     justify-content: center;
     background-color: #f1f1f1;
     border-radius: 20px;
-    padding: 5px 20px;
-    width: 10%;
-    
+    padding: 5px 15px;
+    width: 250px;
 }
+
 .SearchInput input {
     font-size: 17px;
     width: 85%;
     color: #000;
     border: none;
     background-color: #f1f1f1;
-}
+    padding-left: 10px;
 
+    &:focus {
+        border: none;
+        outline: none;
+    }
+}
 
 .BarsButton {
     padding: 5px 10px;
@@ -48,10 +53,16 @@ button:hover {
     font-size: 30px;
 }
 
-.OnSaleCheckbox {
+.OnSaleSwitch {
     font-size: 17px;
     font-weight: bold;
     font-family: inherit;
+    padding-right: 10px;
 }
 
+.slider {
+    width: 100px;
+    height: 10px;
+    display: inline-block;
+}
 
