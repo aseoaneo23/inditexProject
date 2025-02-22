@@ -1,14 +1,15 @@
 import './App.css';
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Button } from "./components/button";
+import { Home } from "./pages/home";
 
 export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Button />} />
-        <Route path="/iago" element={<Button />} />
+        <Route index element={<Home />} />
+        <Route path="/home" element={<Home />} />
+
       </Routes>
     </BrowserRouter>
   );
