@@ -1,0 +1,57 @@
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+button:hover {
+    background-color: #f1f1f1;
+    color: #333;
+}
+
+.FilterButton {
+    font-size: 17px;
+    font-weight: bold;
+    justify-content: center;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+.SearchInput {
+    justify-content: center;
+    background-color: #f1f1f1;
+    border-radius: 20px;
+    padding: 5px 20px;
+    width: 10%;
+    
+}
+.SearchInput input {
+    font-size: 17px;
+    width: 85%;
+    color: #000;
+    border: none;
+    background-color: #f1f1f1;
+}
+
+
+.BarsButton {
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+
+.UserButton {
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+.OnSaleCheckbox {
+    font-size: 17px;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+
