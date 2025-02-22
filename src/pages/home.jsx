@@ -15,11 +15,9 @@ export const Home = () => {
 
 
     return (
-        <div>
-            <div className="card flex justify-content-center">
+        <div className="card flex justify-content-center">
                 <Dropdown value={selectedBrand} onChange={(e) => setSelectedBrand(e.value)} options={brands} optionLabel="name"
-                    placeholder="Select a Inditex Brand" className="w-full md:w-14rem" />
-            </div>
+                placeholder="Select a Inditex Brand" className="w-full md:w-14rem" />
         </div>
     );
 }
