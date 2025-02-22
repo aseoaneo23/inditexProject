@@ -1,7 +1,3 @@
-
-
-
-
 export const ProductTouple = (props) => {
     return (
         <tr>
@@ -12,3 +8,5 @@ export const ProductTouple = (props) => {
         </tr>
     )
 }
+
+        
