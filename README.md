@@ -26,7 +26,7 @@ Un proyecto centrado en el uso empresarial de las APIs de Inditex para mostrar s
 git clone https://github.com/usuario/inditexProyects.git
 
 # Entra en el directorio del proyecto
-cd inditexProyects
+cd inditexProject
 
 # Instala las dependencias
 npm install
