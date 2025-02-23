@@ -1,4 +1,4 @@
-# Inditex Dashboard
+# Logitex Dashboard
 
 Un proyecto centrado en el uso empresarial de las APIs de Inditex para mostrar sus productos a sus trabajadores. El objetivo principal de nuestro proyecto es mostrar de forma clara y concisa los productos para sus trabajadores,esto les permite ser mas eficientes y encontrar fácilmente los productos que necesitan con mayor facilidad. Su principal funcionalidad es la de mostrar los productos de manera ordenada y clara para que el usuario pueda encontrar el producto que necesita con mayor facilidad.
 
