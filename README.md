@@ -59,4 +59,10 @@ python manage.py runserver
 
 ## Tree
 
+Hay una carpeta estructure.txt que contiene el árbol de directorios del proyecto.
+
+## Importante
+
+Es necesario crear en la raíz de backend y frontend las carpetas .env y añadir las variables de entorno necesarias.
+
 
