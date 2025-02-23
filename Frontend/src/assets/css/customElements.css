@@ -19,11 +19,10 @@ button:hover {
 }
 
 .SearchInput {
-    justify-content: center;
     background-color: #f1f1f1;
     border-radius: 20px;
     padding: 5px 15px;
-    width: 250px;
+    width: 300px;
 }
 
 .SearchInput input {
